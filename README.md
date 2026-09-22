@@ -3,7 +3,7 @@ Currently in my 3rd year of my Bachelor's degree in Computer Science.<br>I love 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pernelle Blandin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pernelleblandin.pro@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pernelle-blandin-543640339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pernelleblandin.pro@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
